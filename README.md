@@ -1,6 +1,6 @@
 ## **Basic Information**
 
-This project will use a variety of data analysis techniques to analyze character role distributions and demographics across the different factions, elements (types), paths, and roles in *Honkai: Star Rail (video game)*.
+This project will use a variety of data analysis techniques to analyze character role distributions and demographics across the different factions, elements (types), paths, and roles in *Honkai: Star Rail (video game)* as of version 3.0.
 
 The goal is to determine if certain combinations of these are more common or less represented in the game. This information can then be used to predict the characteristics of future characters not yet added into the game.
 
@@ -19,7 +19,7 @@ The goal is to determine if certain combinations of these are more common or les
 - What path/type combinations are currently missing among male/female and 5-star/4-star characters?
 
 ## **Data Set Sources**
-- 1. Ridho Pandhu, Honkai Star Rail Character Data, [](https://www.kaggle.com/datasets/ridhopandhu/honkai-star-rail-character-data/)
-- 2. Honkai: Star Rail Wiki, Character List, [](https://honkai-star-rail.fandom.com/wiki/Character/List)
-- 3. Game8, List of all Female Characters, [](https://game8.co/games/Honkai-Star-Rail/archives/410779)
-- 4. Game8, List of all Male Characters, [](https://game8.co/games/Honkai-Star-Rail/archives/410114)
+- 1. Ridho Pandhu, Honkai Star Rail Character Data, [https://www.kaggle.com/datasets/ridhopandhu/honkai-star-rail-character-data/](https://www.kaggle.com/datasets/ridhopandhu/honkai-star-rail-character-data/)
+- 2. Honkai: Star Rail Wiki, Character List, [https://honkai-star-rail.fandom.com/wiki/Character/List](https://honkai-star-rail.fandom.com/wiki/Character/List)
+- 3. Game8, List of all Female Characters, [https://game8.co/games/Honkai-Star-Rail/archives/410779](https://game8.co/games/Honkai-Star-Rail/archives/410779)
+- 4. Game8, List of all Male Characters, [https://game8.co/games/Honkai-Star-Rail/archives/410114](https://game8.co/games/Honkai-Star-Rail/archives/410114)
