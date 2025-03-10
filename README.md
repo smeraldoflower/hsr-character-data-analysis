@@ -17,3 +17,9 @@ The goal is to determine if certain combinations of these are more common or les
 - Which path/type has the most/least 5-star/4-star characters?
 - Which path/type has the most/least male/female characters?
 - What path/type combinations are currently missing among male/female and 5-star/4-star characters?
+
+## **Data Set Sources**
+- 1. Ridho Pandhu, Honkai Star Rail Character Data, [](https://www.kaggle.com/datasets/ridhopandhu/honkai-star-rail-character-data/)
+- 2. Honkai: Star Rail Wiki, Character List, [](https://honkai-star-rail.fandom.com/wiki/Character/List)
+- 3. Game8, List of all Female Characters, [](https://game8.co/games/Honkai-Star-Rail/archives/410779)
+- 4. Game8, List of all Male Characters, [](https://game8.co/games/Honkai-Star-Rail/archives/410114)
